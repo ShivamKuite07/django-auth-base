@@ -1,0 +1,9 @@
+
+main admin: admin2
+password: 123
+
+user: admin
+password: shivam@123
+
+authentication implemented.
+basic templates working.
